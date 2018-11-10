@@ -6,7 +6,7 @@ Clone this repository in `/opt`
 
 ```
 cd /opt
-git clone git@github.com:hwaterke/traefik-setup.git traefik
+git clone https://github.com/hwaterke/traefik-setup.git traefik
 cd traefik
 ./setup.sh
 ```
